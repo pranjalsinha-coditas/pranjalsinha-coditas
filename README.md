@@ -13,21 +13,19 @@
 </p>
 
 <!-- Your current activities and interests -->
-- 🔭 I’m currently working on [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/) (Provides free certification)
-
-- 🌱 I’m currently learning **C-Labs, C++(OOP), JAVA.....(Languages linked to academics)**
+- 🔭 I’m currently working **@Coditas**
+  
+- 🌱 I’m currently learning **C-Labs, C++(OOP), JAVA, JavaScript, SQL, CyberSecurity Essentials, HTML.....**
 
 - 👯 I’m looking to collaborate on [Google coding competitions](https://codingcompetitions.withgoogle.com/)
 
 - 🤝 I’m looking for help with [Google developers](https://developers.google.com/learn?skill=introductory)
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/pranjalsinha1965)
-
 - 📝 I regularly write articles on [(Yet to come)]((Yet to come))
 
 - 💬 Ask me about **React, JSON, Swift, Ruby....**
 
-- 📫 How to reach me: **pranjalsinha1965@gmail.com**
+- 📫 How to reach me: **pranjal.sinha@coditas.com**
 
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/pranjal-sinha-9b2137225/)
 
